@@ -23,6 +23,7 @@ typedef NS_ENUM(NSUInteger, MIHRSAKeySize) {
     MIHRSAKey512 = 64,
     MIHRSAKey1024 = 128,
     MIHRSAKey2048 = 256,
+    MIHRSAKey3072 = 384,
     MIHRSAKey4096 = 512
 };
 
